@@ -4,7 +4,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Janithbimsara/dashboard-be.git
    cd dashboard_be
    ```
 
